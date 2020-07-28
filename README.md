@@ -9,7 +9,7 @@
 # Google Colab Examples 
 1) [Getting Started with Bitmovin VOD encoding - standard ABR ladder](https://colab.research.google.com/drive/1gXUq5Z_u66zjBRu2qjVPgI731o5dG82P?usp=sharing)
    
-   * This example is based on this [getting started python guide](https://bitmovin.com/docs/encoding/getting-started/python)*
+   * This example is based on this [getting started python guide](https://bitmovin.com/docs/encoding/getting-started/python)
 
 2) [Per Title Encoding with Bitmovin](https://colab.research.google.com/drive/1wkl209gcnnApXb0WiDA19RSwR6lcOtpr?usp=sharing)
 
