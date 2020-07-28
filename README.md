@@ -8,6 +8,7 @@
 
 # Google Colab Examples 
 1) [Getting Started with Bitmovin VOD encoding - standard ABR](https://colab.research.google.com/drive/1gXUq5Z_u66zjBRu2qjVPgI731o5dG82P?usp=sharing)
-   This example is fully working based on this [getting started python guide](https://bitmovin.com/docs/encoding/getting-started/python)
+   
+   *This example is fully working based on this [getting started python guide](https://bitmovin.com/docs/encoding/getting-started/python)*
 
 
