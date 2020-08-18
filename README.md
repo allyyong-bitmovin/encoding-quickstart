@@ -1,7 +1,7 @@
 # Bitmovin Encoding Cheat Sheet
 
 # Pre-requisite 
-1) Bitmovin API key 
+1) Bitmovin API key & Organization key
 2) AWS S3 Bucket credentials 
 3) Google account (to access Google Colab notebooks) 
 4) [Understanding the Bitmovin Encoding Object Model](https://bitmovin.com/docs/encoding/tutorials/understanding-the-bitmovin-encoding-object-model) 
